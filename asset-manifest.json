@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie-search-app/static/css/main.82270413.css",
-    "main.js": "/movie-search-app/static/js/main.1ad52fcb.js",
-    "static/media/Spinner.gif": "/movie-search-app/static/media/Spinner.379728abc399e51e0c75.gif",
-    "static/media/SmalSpinner.gif": "/movie-search-app/static/media/SmalSpinner.f56993e4a367ae8f60bc.gif",
-    "static/media/Home.jpg": "/movie-search-app/static/media/Home.866fc1c2e8ef6d411b09.jpg",
-    "static/media/Logo.PNG": "/movie-search-app/static/media/Logo.8905e148520e3cb3aaf6.PNG",
-    "index.html": "/movie-search-app/index.html",
-    "static/media/Star.svg": "/movie-search-app/static/media/Star.d96f3ceda488b660bde0529801c7ee35.svg",
-    "main.82270413.css.map": "/movie-search-app/static/css/main.82270413.css.map",
-    "main.1ad52fcb.js.map": "/movie-search-app/static/js/main.1ad52fcb.js.map"
+    "main.css": "/static/css/main.ed94da96.css",
+    "main.js": "/static/js/main.05b7b29a.js",
+    "static/media/Spinner.gif": "/static/media/Spinner.379728abc399e51e0c75.gif",
+    "static/media/SmalSpinner.gif": "/static/media/SmalSpinner.f56993e4a367ae8f60bc.gif",
+    "static/media/Home.jpg": "/static/media/Home.866fc1c2e8ef6d411b09.jpg",
+    "static/media/Logo.PNG": "/static/media/Logo.8905e148520e3cb3aaf6.PNG",
+    "static/media/Star.svg": "/static/media/Star.d96f3ceda488b660bde0529801c7ee35.svg",
+    "index.html": "/index.html",
+    "main.ed94da96.css.map": "/static/css/main.ed94da96.css.map",
+    "main.05b7b29a.js.map": "/static/js/main.05b7b29a.js.map"
   },
   "entrypoints": [
-    "static/css/main.82270413.css",
-    "static/js/main.1ad52fcb.js"
+    "static/css/main.ed94da96.css",
+    "static/js/main.05b7b29a.js"
   ]
 }
